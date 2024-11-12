@@ -19,5 +19,3 @@
 
 ### 💻 Software and tools
    > - Jupyter
-
-
