@@ -20,4 +20,4 @@
 ### 💻 Software and tools
    > - Jupyter
 
-!(https://github.com/VoudourisAM/ME/blob/main/Social%20Symbols/Linkedin-logo-on-transparent-PNG-.png)
+![Screenshot 2024-09-27 142637](https://github.com/VoudourisAM/ME/blob/main/Social%20Symbols/Linkedin-logo-on-transparent-PNG-.png).
