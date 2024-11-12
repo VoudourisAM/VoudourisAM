@@ -3,6 +3,7 @@
 
 > - Data Scientist
 > - Machine Learning
+> - Data Analyst
 
 ## 🛠️ My favorite tools
 ### 👨‍💻 Programming languages
