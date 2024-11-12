@@ -10,7 +10,8 @@
    > - SQL
 
 ### 🧰 Frameworks, libraries
-   > - Pandas > - Numpy
+   > - Pandas
+   > - Numpy
    > - Scikitlearn
    > - XGBoost
    > - NGBoost
