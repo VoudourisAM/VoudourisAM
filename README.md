@@ -3,5 +3,6 @@
 > - Machine Learning
 
 ## 🛠️ My favorite tools
-   > - Data Scientist
-   > - Machine Learning
+### 👨‍💻 Programming languages
+   > - Python
+   > - SQL
