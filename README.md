@@ -6,3 +6,18 @@
 ### 👨‍💻 Programming languages
    > - Python
    > - SQL
+
+### 🧰 Frameworks, libraries
+   > - Pandas
+   > - Numpy
+   > - Scikitlearn
+   > - XGBoost
+   > - NGBoost
+   > - Matplotlib
+   > - MySQL
+   > - Flask
+
+### 💻 Software and tools
+   > - Jupyter
+
+
