@@ -6,22 +6,22 @@
 > - Data Analyst
 
 ## 🛠️ My favorite tools
-### > 👨‍💻 Programming languages
+> ### 👨‍💻 Programming languages
 - Python
 - SQL
 
-### 🧰 Frameworks, libraries
-   > - Pandas
-   > - Numpy
-   > - Scikitlearn
-   > - XGBoost
-   > - NGBoost
-   > - Matplotlib
-   > - MySQL
-   > - Flask
+> ### 🧰 Frameworks, libraries
+   - Pandas
+   - Numpy
+   - Scikitlearn
+   - XGBoost
+   - NGBoost
+   - Matplotlib
+   - MySQL
+   - Flask
 
-### 💻 Software and tools
+> ### 💻 Software and tools
    > - Jupyter
 
-### 🌐 Connect with Me
+> ### 🌐 Connect with Me
 - [LinkedIn](www.linkedin.com/in/michael-angelo-voudouris-082a20207)
