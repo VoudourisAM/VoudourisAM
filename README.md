@@ -6,9 +6,9 @@
 > - Data Analyst
 
 ## 🛠️ My favorite tools
-### 👨‍💻 Programming languages
-   > - Python
-   > - SQL
+> ### 👨‍💻 Programming languages
+- Python
+- SQL
 
 ### 🧰 Frameworks, libraries
    > - Pandas
