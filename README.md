@@ -7,8 +7,8 @@
 
 ## 🛠️ My favorite tools
 > ### 👨‍💻 Programming languages
-- Python
-- SQL
+   - Python
+   - SQL
 
 > ### 🧰 Frameworks, libraries
    - Pandas
@@ -23,5 +23,5 @@
 > ### 💻 Software and tools
    > - Jupyter
 
-> ### 🌐 Connect with Me
+## 🌐 Connect with Me
 - [LinkedIn](www.linkedin.com/in/michael-angelo-voudouris-082a20207)
