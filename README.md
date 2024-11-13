@@ -21,7 +21,7 @@
    - Flask
 
 > ### 💻 Software and tools
-   > - Jupyter
+   - Jupyter
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/michael-angelo-voudouris-082a20207/)
