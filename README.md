@@ -6,7 +6,7 @@
 > - Data Analyst
 
 ## 🛠️ My favorite tools
-> ### 👨‍💻 Programming languages
+### > 👨‍💻 Programming languages
 - Python
 - SQL
 
