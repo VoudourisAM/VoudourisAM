@@ -23,4 +23,3 @@
 ### 💻 Software and tools
    > - Jupyter
 
-- **Languages**: JavaScript, Python, SQL
