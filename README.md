@@ -23,3 +23,5 @@
 ### 💻 Software and tools
    > - Jupyter
 
+### 🌐 Connect with Me
+- [LinkedIn](www.linkedin.com/in/michael-angelo-voudouris-082a20207)
