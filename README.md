@@ -35,9 +35,3 @@
 
 [![SQL](https://img.shields.io/badge/SQL-Database-blue?style=flat&logo=postgresql&logoColor=white)](https://www.sql.org)
 
-<a href="https://www.python.org" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/python.png" alt="Python" width="30" height="30">
-</a>
-<a href="https://www.sql.org" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/database.png" alt="SQL" width="30" height="30">
-</a>
