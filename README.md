@@ -1,4 +1,4 @@
-# ![Name Animation](./name-animation.svg)
+<img src="animated-name.svg" alt="Animated Name" width="800" height="100">
 
 ## Me
 ![Screenshot 2024-11-12 150141](https://github.com/user-attachments/assets/107bebde-1c5f-4254-ae20-55af94dac84f)
