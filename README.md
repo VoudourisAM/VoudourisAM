@@ -9,27 +9,6 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com)
 
 > ## 🧰 Frameworks, libraries
-   - Pandas
-   - Numpy
-   - Seaborn
-   - Scikitlearn
-   - XGBoost
-   - NGBoost
-   - Matplotlib
-   - MySQL
-   - Flask
-   - Matplotlib
-
-> ## 💻 Technologies
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-FFA500?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org)
-
-## 🌐 Connect with Me
-
-<a href="https://www.linkedin.com/in/michael-angelo-voudouris-082a20207/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn" width="30" height="30">
-</a>
-
-
 [![Pandas](https://img.shields.io/badge/Pandas-DataFrame-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-1.24.0-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-Statistical_Visualization-01A9C7?style=flat&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
@@ -40,3 +19,12 @@
 [![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Flask](https://img.shields.io/badge/Flask-Web_Framework-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Plotting-3D76D5?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+
+> ## 💻 Technologies
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-FFA500?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org)
+
+## 🌐 Connect with Me
+
+<a href="https://www.linkedin.com/in/michael-angelo-voudouris-082a20207/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn" width="30" height="30">
+</a>
