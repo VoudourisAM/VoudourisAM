@@ -9,6 +9,7 @@
 > ## 🧰 Frameworks, libraries
    - Pandas
    - Numpy
+   - Seaborn
    - Scikitlearn
    - XGBoost
    - NGBoost
