@@ -24,7 +24,7 @@
 
 ## 🌐 Connect with Me
 
-<a href="https://www.linkedin.com/in/your-profile/" target="_blank">
+<a href="https://www.linkedin.com/in/michael-angelo-voudouris-082a20207/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn" width="30" height="30">
 </a>
 
