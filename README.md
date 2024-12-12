@@ -24,3 +24,4 @@
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/michael-angelo-voudouris-082a20207/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
