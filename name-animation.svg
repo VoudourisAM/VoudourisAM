@@ -3,17 +3,21 @@
         .letter {
             font-size: 50px;
             font-family: Arial, sans-serif;
-            fill: black;
+            fill: red;
             opacity: 0;
-            animation: fadeIn 1s forwards;
+            animation: fadeIn 1s forwards infinite;
         }
         .letter:nth-child(1) { animation-delay: 0s; }
         .letter:nth-child(2) { animation-delay: 0.5s; }
         .letter:nth-child(3) { animation-delay: 1s; }
         .letter:nth-child(4) { animation-delay: 1.5s; }
+        .letter:nth-child(5) { animation-delay: 2s; }
+        .letter:nth-child(6) { animation-delay: 2.5s; }
+        .letter:nth-child(7) { animation-delay: 3s; }
         @keyframes fadeIn {
             0% { opacity: 0; transform: translateY(-20px); }
-            100% { opacity: 1; transform: translateY(0); }
+            50% { opacity: 1; transform: translateY(0); }
+            100% { opacity: 0; transform: translateY(20px); }
         }
     </style>
     <text x="50" y="60" class="letter">A</text>
