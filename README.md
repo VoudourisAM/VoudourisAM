@@ -27,6 +27,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30">
 </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/michael-angelo-voudouris-082a20207/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/michael-angelo-voudouris-082a20207)
 
 
