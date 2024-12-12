@@ -1,11 +1,6 @@
 ## Me
 ![Screenshot 2024-11-12 150141](https://github.com/user-attachments/assets/107bebde-1c5f-4254-ae20-55af94dac84f)
 
-<h1 aling="center">
-   <img src="
-front=Righteous&size35&vCenter=true&width=500&heigth=70&duration=4000&lines=Hi+There!;+I'm+proff+aa;"/>
-<h1/>
-
 ## 🛠️ My favorite tools
 > ### 👨‍💻 Programming languages
    - Python
