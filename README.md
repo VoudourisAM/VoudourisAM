@@ -31,7 +31,10 @@
 
 
 [![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat&logo=python&logoColor=white)](https://www.python.org)
-
-
 [![SQL](https://img.shields.io/badge/SQL-Database-blue?style=flat&logo=postgresql&logoColor=white)](https://www.sql.org)
 
+[![Python](https://img.shields.io/badge/Python-3.9-306998?style=flat&logo=python&logoColor=white)](https://www.python.org)
+[![Python](https://img.shields.io/badge/Python-3.9-87CEEB?style=flat&logo=python&logoColor=white)](https://www.python.org)
+[![SQL](https://img.shields.io/badge/SQL-Database-0077B5?style=flat&logo=postgresql&logoColor=white)](https://www.sql.org)
+[![Python](https://img.shields.io/badge/Python-3.9-306998?style=flat&logo=python&logoColor=white)](https://www.python.org)
+[![SQL](https://img.shields.io/badge/SQL-Database-0077B5?style=flat&logo=postgresql&logoColor=white)](https://www.sql.org)
