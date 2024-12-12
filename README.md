@@ -23,10 +23,18 @@
    - Jupyter
 
 ## 🌐 Connect with Me
-<a href="www.linkedin.com/in/michael-angelo-voudouris-082a20207/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30">
+
+<a href="https://www.linkedin.com/in/your-profile/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="30" height="30">
 </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)]([www.linkedin.com/in/michael-angelo-voudouris-082a20207](https://www.linkedin.com/in/michael-angelo-voudouris-082a20207/))
+<a href="https://www.linkedin.com/in/your-profile/" target="_blank">
+    <img src="linkedin-icon.png" alt="LinkedIn" width="30" height="30">
+</a>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
+
+<a href="https://www.linkedin.com/in/your-profile/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="30" height="30">
+</a>
 
