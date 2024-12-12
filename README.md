@@ -24,4 +24,4 @@
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/michael-angelo-voudouris-082a20207/)
 
-![Name Animation](./name-animation.svg)
+![name-animation.svg](./name-animation.svg)
