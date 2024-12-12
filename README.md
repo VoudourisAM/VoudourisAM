@@ -29,6 +29,4 @@
     <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn" width="30" height="30">
 </a>
 
-<a href="https://jupyter.org" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/jupyter.png" alt="Jupyter Notebook" width="30" height="30">
-</a>
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-FFA500?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org)
