@@ -28,3 +28,7 @@
 <a href="https://www.linkedin.com/in/michael-angelo-voudouris-082a20207/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn" width="30" height="30">
 </a>
+
+[![Decision Tree](https://img.shields.io/badge/Decision_Tree-Machine_Learning-006400?style=flat&logo=tree&logoColor=white)](https://scikit-learn.org/stable/modules/tree.html)
+[![Random Forest](https://img.shields.io/badge/Random_Forest-Machine_Learning-228B22?style=flat&logo=forest&logoColor=white)](https://scikit-learn.org/stable/modules/ensemble.html#random-forest)
+[![Linear Regression](https://img.shields.io/badge/Linear_Regression-Machine_Learning-0000FF?style=flat&logo=linear&logoColor=white)](https://scikit-learn.org/stable/modules/linear_model.html#linear-regression)
