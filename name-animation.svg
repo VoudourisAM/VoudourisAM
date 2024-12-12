@@ -1,7 +1,7 @@
 <svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
     <style>
         .letter {
-            font-size: 150px;
+            font-size: 50px;
             font-family: Arial, sans-serif;
             fill: red;
             opacity: 0;
