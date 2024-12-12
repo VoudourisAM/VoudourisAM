@@ -4,8 +4,8 @@
 
 ## 🛠️ My favorite tools
 > ### 👨‍💻 Programming languages
-   - Python
-   - SQL
+[![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat&logo=python&logoColor=white)](https://www.python.org)
+[![SQL](https://img.shields.io/badge/SQL-Database-blue?style=flat&logo=postgresql&logoColor=white)](https://www.sql.org)
 
 > ## 🧰 Frameworks, libraries
    - Pandas
@@ -27,14 +27,3 @@
 <a href="https://www.linkedin.com/in/michael-angelo-voudouris-082a20207/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn" width="30" height="30">
 </a>
-
-
-
-[![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat&logo=python&logoColor=white)](https://www.python.org)
-[![SQL](https://img.shields.io/badge/SQL-Database-blue?style=flat&logo=postgresql&logoColor=white)](https://www.sql.org)
-
-[![Python](https://img.shields.io/badge/Python-3.9-306998?style=flat&logo=python&logoColor=white)](https://www.python.org)
-[![Python](https://img.shields.io/badge/Python-3.9-87CEEB?style=flat&logo=python&logoColor=white)](https://www.python.org)
-[![SQL](https://img.shields.io/badge/SQL-Database-0077B5?style=flat&logo=postgresql&logoColor=white)](https://www.sql.org)
-[![Python](https://img.shields.io/badge/Python-3.9-306998?style=flat&logo=python&logoColor=white)](https://www.python.org)
-[![SQL](https://img.shields.io/badge/SQL-Database-0077B5?style=flat&logo=postgresql&logoColor=white)](https://www.sql.org)
