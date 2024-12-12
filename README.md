@@ -1,4 +1,4 @@
-![Animated Name](https://username.github.io/repository/animated-name.svg)
+![Animated Name]([https://username.github.io/repository/animated-name.svg](https://github.com/VoudourisAM/VoudourisAM/blob/main/name-animation.svg))
 
 
 ## Me
