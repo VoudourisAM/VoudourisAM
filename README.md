@@ -28,6 +28,3 @@
 <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30">
 </a>
-[![LinkedIn](linkedin-icon.png)](https://www.linkedin.com/in/your-profile/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/your-profile/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
