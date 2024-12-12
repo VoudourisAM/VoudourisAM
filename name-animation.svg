@@ -1,0 +1,26 @@
+<svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .letter {
+            font-size: 50px;
+            font-family: Arial, sans-serif;
+            fill: black;
+            opacity: 0;
+            animation: fadeIn 1s forwards;
+        }
+        .letter:nth-child(1) { animation-delay: 0s; }
+        .letter:nth-child(2) { animation-delay: 0.5s; }
+        .letter:nth-child(3) { animation-delay: 1s; }
+        .letter:nth-child(4) { animation-delay: 1.5s; }
+        @keyframes fadeIn {
+            0% { opacity: 0; transform: translateY(-20px); }
+            100% { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+    <text x="50" y="60" class="letter">A</text>
+    <text x="100" y="60" class="letter">n</text>
+    <text x="150" y="60" class="letter">i</text>
+    <text x="200" y="60" class="letter">m</text>
+    <text x="250" y="60" class="letter">a</text>
+    <text x="300" y="60" class="letter">t</text>
+    <text x="350" y="60" class="letter">e</text>
+</svg>
