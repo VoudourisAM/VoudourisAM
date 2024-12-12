@@ -32,12 +32,3 @@
 <a href="https://jupyter.org" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/jupyter.png" alt="Jupyter Notebook" width="30" height="30">
 </a>
-
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-yellow?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org)
-
-<a href="https://jupyter.org" target="_blank">
-    <img src="https://github.com/your-username/your-repository-name/blob/main/assets/jupyter-icon.png" alt="Jupyter Notebook" width="30" height="30">
-</a>
-
-[![Python](https://img.shields.io/badge/Python-3.9-306998?style=flat&logo=python&logoColor=white)](https://www.python.org)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-yellow?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org)
