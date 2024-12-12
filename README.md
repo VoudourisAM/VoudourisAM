@@ -19,7 +19,6 @@
 [![XGBoost](https://img.shields.io/badge/XGBoost-Gradient_Boosting-3C7B40?style=flat&logo=xgboost&logoColor=white)](https://xgboost.ai/)
 [![NGBoost](https://img.shields.io/badge/NGBoost-Bayesian_Gradient_Boosting-FF9933?style=flat&logo=ngboost&logoColor=white)](https://stanfordmlgroup.github.io/NGBoost/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Plotting-3D76D5?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-Plotting-3D76D5?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Flask](https://img.shields.io/badge/Flask-Web_Framework-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
