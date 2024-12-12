@@ -6,6 +6,7 @@
 > ### 👨‍💻 Programming languages
 [![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![SQL](https://img.shields.io/badge/SQL-Database-blue?style=flat&logo=postgresql&logoColor=white)](https://www.sql.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com)
 
 > ## 🧰 Frameworks, libraries
    - Pandas
@@ -29,8 +30,3 @@
 </a>
 
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com)
-<a href="https://www.javascript.com" target="_blank">
-    <img src="https://github.com/your-username/your-repository-name/blob/main/assets/javascript-icon.png" alt="JavaScript" width="30" height="30">
-</a>
-<i class="fab fa-js-square"></i>
