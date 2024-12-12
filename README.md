@@ -23,7 +23,7 @@
    - Jupyter
 
 ## 🌐 Connect with Me
-- [![LinkedIn]([https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/michael-angelo-voudouris-082a20207/))
+[![LinkedIn](www.linkedin.com/in/michael-angelo-voudouris-082a20207)
 <a href="[https://www.linkedin.com/in/your-profile/](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/(https://www.linkedin.com/in/michaelangelo-voudouris-082a20207/)" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30">
 </a>
