@@ -16,6 +16,7 @@
    - Matplotlib
    - MySQL
    - Flask
+   - Matplotlib
 
 > ## 💻 Software and tools
    - Jupyter
