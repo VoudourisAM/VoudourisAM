@@ -28,3 +28,6 @@
 <a href="https://www.linkedin.com/in/michael-angelo-voudouris-082a20207/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn" width="30" height="30">
 </a>
+
+[![Flask](https://img.shields.io/badge/Flask-Web_Framework-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Express.js](https://img.shields.io/badge/Express.js-Web_Framework-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
