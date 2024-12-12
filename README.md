@@ -1,6 +1,6 @@
 # ![Name Animation](./name-animation.svg)
 
-![Screenshot 2024-11-12 150141](https://github.com/user-attachments/assets/107bebde-1c5f-4254-ae20-55af94dac84f)
+![Screenshot 2024-12-12 192231](https://github.com/user-attachments/assets/3fdfc3ea-54a4-4321-b1dc-838bd49f972a)
 
 ## 🛠️ My favorite tools
 > ### 👨‍💻 Programming languages
