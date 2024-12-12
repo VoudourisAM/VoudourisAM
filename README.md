@@ -23,7 +23,5 @@
    - Jupyter
 
 ## 🌐 Connect with Me
-[![LinkedIn](www.linkedin.com/in/michael-angelo-voudouris-082a20207)
-<a href="www.linkedin.com/in/michael-angelo-voudouris-082a20207)" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30">
-</a>
+[![LinkedIn](www.linkedin.com/in/michael-angelo-voudouris-082a20207/)
+
