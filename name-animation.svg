@@ -22,9 +22,17 @@
     </style>
     <text x="50" y="60" class="letter">A</text>
     <text x="100" y="60" class="letter">n</text>
-    <text x="150" y="60" class="letter">i</text>
-    <text x="200" y="60" class="letter">m</text>
-    <text x="250" y="60" class="letter">a</text>
-    <text x="300" y="60" class="letter">t</text>
-    <text x="350" y="60" class="letter">e</text>
+    <text x="150" y="60" class="letter">g</text>
+    <text x="200" y="60" class="letter">e</text>
+    <text x="250" y="60" class="letter">l</text>
+    <text x="300" y="60" class="letter">o</text>
+    <text x="350" y="60" class="letter">s</text>
+    <text x="350" y="60" class="letter">" "</text>
+    <text x="350" y="60" class="letter">M</text>
+    <text x="350" y="60" class="letter">i</text>
+    <text x="350" y="60" class="letter">c</text>
+    <text x="350" y="60" class="letter">h</text>
+    <text x="350" y="60" class="letter">a</text>
+    <text x="350" y="60" class="letter">i</text>
+    <text x="350" y="60" class="letter">l</text>
 </svg>
