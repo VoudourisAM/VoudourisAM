@@ -21,7 +21,7 @@
    - Matplotlib
 
 > ## 💻 Technologies
-   - Jupyter
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-FFA500?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org)
 
 ## 🌐 Connect with Me
 
@@ -29,4 +29,3 @@
     <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn" width="30" height="30">
 </a>
 
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-FFA500?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org)
