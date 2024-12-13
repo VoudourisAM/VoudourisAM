@@ -51,4 +51,4 @@
 ![Background](Img/img_bround.jpg)
 
 
-<img src="Img/about_me.jpeg" alt="About Me" style="width:100%;">
+<img src="Img/img_bround.jpg" alt="About Me" style="width:100%;">
