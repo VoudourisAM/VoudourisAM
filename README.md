@@ -1,6 +1,5 @@
-<div style="text-align: center;">
-  ![Name Animation](./Animation/Ani_Name.svg)
-</div>
+![Name Animation](./Animation/Ani_Names.svg)
+
 
 # ![Name Animation](./Animation/Ani_Name.svg)
 
