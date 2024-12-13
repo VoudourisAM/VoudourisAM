@@ -30,3 +30,8 @@
 <a href="https://www.linkedin.com/in/michael-angelo-voudouris-082a20207/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn" width="30" height="30">
 </a>
+
+
+![Snake animation](https://github.com/<YourUsername>/<YourUsername>/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/<YourUsername>/<YourUsername>/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/<YourUsername>/<YourUsername>/blob/output/github-contribution-grid-snake.svg)
