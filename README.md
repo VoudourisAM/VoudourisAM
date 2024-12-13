@@ -39,9 +39,12 @@
     <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn" width="30" height="30">
 </a>
 
+<p align="center">
+  <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn" width="30" height="30">
+</p>
+
+
+
 ![Background](Img/img_bround.jpg)
 
-<p align="center">
-  <img src="Img/img_bround.jpg" alt="Background">
-</p>
 
