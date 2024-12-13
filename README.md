@@ -5,11 +5,14 @@
 
 ## 🛠️ My favorite tools
 > ### 👨‍💻 Programming languages
+<p>
 [![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![SQL](https://img.shields.io/badge/SQL-Database-blue?style=flat&logo=postgresql&logoColor=white)](https://www.sql.org)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com)
+</p>
 
 > ## 🧰 Frameworks, libraries
+<p>
 [![Pandas](https://img.shields.io/badge/Pandas-DataFrame-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-1.24.0-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-Statistical_Visualization-01A9C7?style=flat&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
@@ -22,6 +25,7 @@
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Plotting-3D76D5?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Flask](https://img.shields.io/badge/Flask-Web_Framework-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+</p>
 
 > ## 💻 Technologies
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-FFA500?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org)
