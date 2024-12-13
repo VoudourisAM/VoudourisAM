@@ -1,6 +1,6 @@
 # ![Name Animation](./Animation/Ani_Name.svg)
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+<div style="text-align: center;">
   ![Name Animation](./Animation/Ani_Name.svg)
 </div>
 
