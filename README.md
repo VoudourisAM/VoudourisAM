@@ -1,4 +1,4 @@
-# ![Name Animation](.Animation/Ani_Name.svg)
+# ![Name Animation](./Animation/Ani_Name.svg)
 
 ![Screenshot 2024-12-12 200224](https://github.com/user-attachments/assets/d870f5e2-30ba-4e9a-a1a2-008aa68a2fef)
 
