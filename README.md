@@ -1,3 +1,12 @@
+<style>
+  .centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+</style>
+
 <div class="container">
   <img src="Img/img_bround.jpg" alt="Snow" style="width:100%;">
   <div class="centered">Centered</div>
