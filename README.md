@@ -1,7 +1,7 @@
 background: url("Img/img_bround.jpg") center center cover no-repeat fixed;
 
 <style>
-  :root { font: 1rem/1.6 sans-serif; background: url(Img/img_bround.jpg) no-repeat; min-height: 256px; }
+  :root { font: 1rem/1.6 sans-serif; background: url("Img/img_bround.jpg") no-repeat; min-height: 256px; }
   div { background-image: url(//placekitten.com/100/100); }
 </style>
 <img src="Img/img_bround.jpg" width="100" height="100" alt="">
