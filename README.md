@@ -1,6 +1,3 @@
-![Name Animation](./Animation/Ani_Names.svg)
-
-
 # ![Name Animation](./Animation/Ani_Name.svg)
 
 <img src="Img/about_me.jpeg" alt="About Me" style="width:100%;">
