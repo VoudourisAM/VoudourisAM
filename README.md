@@ -1,4 +1,4 @@
-<img src="Img/about_me.jpeg" alt="About Me" style="background-image: url('Img/img_bround.jpg')">
+background: url(Img/img_bround.jpg) center center cover no-repeat fixed;
 
 # ![Name Animation](./Animation/Ani_Name.svg)
 
