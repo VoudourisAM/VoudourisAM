@@ -1,4 +1,4 @@
-background: url(Img/img_bround.jpg) center center cover no-repeat fixed;
+background: url("Img/img_bround.jpg") center center cover no-repeat fixed;
 
 # ![Name Animation](./Animation/Ani_Name.svg)
 
