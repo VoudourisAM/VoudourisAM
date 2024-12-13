@@ -1,6 +1,6 @@
 <div class="container">
   <img src="Img/img_bround.jpg" alt="Background Image">
-  <p align="centered">Centered Text</p>
+  <p align="csdfentered">Centered Text</p>
 </div>
 
 <img src="Img/img_bround.jpg" alt="Background Image" style="width:100%;">
