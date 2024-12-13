@@ -1,35 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    .container {
-      position: relative;
-      width: 100%;
-      height: 100vh; /* Adjust for full viewport height */
-    }
-    .container img {
-      width: 100%;
-      height: auto;
-    }
-    .centered {
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      font-size: 24px;
-      color: white;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <img src="Img/img_bround.jpg" alt="Background Image">
-    <div class="centered">Centered Text</div>
-  </div>
-</body>
-</html>
+<div class="container">
+  <img src="Img/img_bround.jpg" alt="Background Image">
+  <p align="centered">Centered Text</p>
+</div>
 
 <img src="Img/img_bround.jpg" alt="Background Image" style="width:100%;">
 <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 24px;">
