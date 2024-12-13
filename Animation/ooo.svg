@@ -1,0 +1,48 @@
+<div style="text-align: center;">
+    <svg width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+        <style>
+            .letter {
+                font-size: 50px;
+                font-family: Arial, sans-serif;
+                fill: gold;
+                opacity: 0;
+                animation: fadeIn 1s forwards;
+                animation: fadeIn 1s forwards infinite;
+            }
+            .letter:nth-child(1) { animation-delay: 0s; }
+            .letter:nth-child(2) { animation-delay: 0.5s; }
+            .letter:nth-child(3) { animation-delay: 1s; }
+            .letter:nth-child(4) { animation-delay: 1.5s; }
+            .letter:nth-child(5) { animation-delay: 2s; }
+            .letter:nth-child(6) { animation-delay: 2.5s; }
+            .letter:nth-child(7) { animation-delay: 3s; }
+            .letter:nth-child(8) { animation-delay: 3.5s; }
+            .letter:nth-child(9) { animation-delay: 4s; }
+            .letter:nth-child(10) { animation-delay: 4.5s; }
+            .letter:nth-child(11) { animation-delay: 5s; }
+            .letter:nth-child(12) { animation-delay: 5.5s; }
+            .letter:nth-child(13) { animation-delay: 6s; }
+            @keyframes fadeIn {
+                0% { opacity: 0; transform: translateY(-20px); }
+                100% { opacity: 1; transform: translateY(0); }
+            }
+        </style>
+        <!-- First Name: Angelos -->
+        <text x="50" y="60" class="letter">A</text>
+        <text x="100" y="60" class="letter">n</text>
+        <text x="150" y="60" class="letter">g</text>
+        <text x="200" y="60" class="letter">e</text>
+        <text x="250" y="60" class="letter">l</text>
+        <text x="300" y="60" class="letter">o</text>
+        <text x="350" y="60" class="letter">s</text>
+
+        <!-- Last Name: Michail -->
+        <text x="450" y="60" class="letter">M</text>
+        <text x="500" y="60" class="letter">i</text>
+        <text x="550" y="60" class="letter">c</text>
+        <text x="600" y="60" class="letter">h</text>
+        <text x="650" y="60" class="letter">a</text>
+        <text x="700" y="60" class="letter">i</text>
+        <text x="750" y="60" class="letter">l</text>
+    </svg>
+</div>
