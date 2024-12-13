@@ -1,9 +1,4 @@
-body { 
-  background-image: url('Img/img_bround.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center top; 
-}
+<p style="background-image: url('Img/img_bround.jpg');">
 
 # ![Name Animation](./Animation/Ani_Name.svg)
 
