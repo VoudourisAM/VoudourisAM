@@ -25,7 +25,7 @@
 </head>
 <body>
   <div class="container">
-    <img src="path-to-your-image.jpg" alt="Background Image">
+    <img src="Img/img_bround.jpg" alt="Background Image">
     <div class="centered">Centered Text</div>
   </div>
 </body>
