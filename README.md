@@ -41,3 +41,7 @@
 
 ![Background](Img/img_bround.jpg)
 
+<p align="center">
+  <img src="Img/img_bround.jpg" alt="Background">
+</p>
+
