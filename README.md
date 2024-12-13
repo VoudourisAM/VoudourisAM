@@ -1,13 +1,9 @@
-<div class="container">
-  <img src="Img/img_bround.jpg" alt="Background Image">
-  <p align="csdfentered">Centered Text</p>
-</div>
-
-<img src="Img/img_bround.jpg" alt="Background Image" style="width:100%;">
-<div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 24px;">
-  Centered Text
-</div>
-</div>
+body { 
+  background-image: url('Img/img_bround.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center top; 
+}
 
 # ![Name Animation](./Animation/Ani_Name.svg)
 
