@@ -5,10 +5,11 @@
 
 ## 🛠️ My favorite tools
 > ### 👨‍💻 Programming languages
-[![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat&logo=python&logoColor=white)](https://www.python.org)
-[![SQL](https://img.shields.io/badge/SQL-Database-blue?style=flat&logo=postgresql&logoColor=white)](https://www.sql.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com)
-
+<p align="right">
+    [![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat&logo=python&logoColor=white)](https://www.python.org)
+    [![SQL](https://img.shields.io/badge/SQL-Database-blue?style=flat&logo=postgresql&logoColor=white)](https://www.sql.org)
+    [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com)
+</p>
 > ## 🧰 Frameworks, libraries
 [![Pandas](https://img.shields.io/badge/Pandas-DataFrame-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-1.24.0-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
