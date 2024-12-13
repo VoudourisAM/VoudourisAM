@@ -31,14 +31,11 @@
 [![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 > ## 💻 Technologies
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-FFA500?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org)
+<p align="center">
+  [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-FFA500?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org)
+</p>
 
 ## 🌐 Connect with Me
-
-<a href="https://www.linkedin.com/in/michael-angelo-voudouris-082a20207/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn" width="30" height="30">
-</a>
-
 <p align="center">
   <a  href="https://www.linkedin.com/in/michael-angelo-voudouris-082a20207/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn" width="30" height="30">
