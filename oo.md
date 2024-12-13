@@ -1,6 +1,6 @@
 <style>
   .image {
-    box-shadow: 8px 8px 15px rgba(0, 0, 0, 0.5);
+    box-shadow: 25px 25px 25px rgba(225,225,225, 0.4);
   }
 </style>
 <img class="image" src="Img/about_me.jpeg" alt="About Me" style="width:100%;">
