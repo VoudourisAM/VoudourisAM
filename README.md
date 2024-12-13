@@ -32,4 +32,4 @@
 </a>
 
 
-![Generate Snake Animation](https://github.com/<YourUsername>/<YourUsername>/blob/output/github-contribution-grid-snake.svg)
+![Background](https://your-image-url.com/image.png)
