@@ -1,4 +1,4 @@
-<p style="background-image: url('Img/img_bround.jpg');">
+<img src="Img/about_me.jpeg" alt="About Me" style="background-image: url('Img/img_bround.jpg')">
 
 # ![Name Animation](./Animation/Ani_Name.svg)
 
