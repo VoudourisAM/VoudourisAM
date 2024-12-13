@@ -1,14 +1,8 @@
-<div class="container">
-  <img src="Img/img_bround.jpg" alt="Snow" style="width:100%;">
-  <div class="centered">Centered</div>
-  <style>
-    .centered {
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-    }
-</style>
+div style="position: relative; text-align: center; color: white;">
+  <img src="https://raw.githubusercontent.com/<YourUsername>/<YourRepo>/main/Img/img_bround.jpg" alt="Background Image" style="width:100%;">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 24px;">
+    Centered Text
+  </div>
 </div>
 
 
