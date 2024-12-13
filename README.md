@@ -1,5 +1,5 @@
 <div class="container">
-  <img src="![Background](Img/img_bround.jpg)" alt="Snow" style="width:100%;">
+  <img src="Img/img_bround.jpg" alt="Snow" style="width:100%;">
   <div class="bottom-left">Bottom Left</div>
   <div class="top-left">Top Left</div>
   <div class="top-right">Top Right</div>
