@@ -1,6 +1,6 @@
 # ![Name Animation](./Animation/Ani_Name.svg)
 <p align="center">
-    ![Name Animation](./Animation/Ani_Name.svg)
+    <img src="./Animation/Ani_Name.svg" alt="Animated SVG">
 </p>
 
 <img src="Img/about_me.jpeg" alt="About Me" style="width:100%;">
