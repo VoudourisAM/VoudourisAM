@@ -1,8 +1,8 @@
-# ![Name Animation](./Animation/Ani_Name.svg)
-
 <div style="text-align: center;">
   ![Name Animation](./Animation/Ani_Name.svg)
 </div>
+
+# ![Name Animation](./Animation/Ani_Name.svg)
 
 <img src="Img/about_me.jpeg" alt="About Me" style="width:100%;">
 
