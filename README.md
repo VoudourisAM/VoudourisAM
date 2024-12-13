@@ -1,5 +1,9 @@
 # ![Name Animation](./Animation/Ani_Name.svg)
 
+<div style="text-align: center;">
+  ![Name Animation](./Animation/Ani_Name.svg)
+</div>
+
 <img src="Img/about_me.jpeg" alt="About Me" style="width:100%;">
 
 ## 🛠️ My favorite tools
