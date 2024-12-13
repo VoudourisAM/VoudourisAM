@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+<div style="display: flex; align-items: center; height: 100vh;">
   <svg width="800" height="100" xmlns="http://www.w3.org/2000/svg">
       <style>
           .letter {
