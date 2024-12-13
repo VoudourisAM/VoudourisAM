@@ -4,12 +4,9 @@
 </div>
 </div>
 
-
 # ![Name Animation](./Animation/Ani_Name.svg)
 
 <img src="Img/about_me.jpeg" alt="About Me" style="width:100%;">
-
-![Screenshot 2024-12-12 200224](https://github.com/user-attachments/assets/d870f5e2-30ba-4e9a-a1a2-008aa68a2fef)
 
 ## 🛠️ My favorite tools
 > ### 👨‍💻 Programming languages
