@@ -5,6 +5,9 @@
 
 ## 🛠️ My favorite tools
 > ### 👨‍💻 Programming languages
+[![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat&logo=python&logoColor=white)](https://www.python.org)
+[![SQL](https://img.shields.io/badge/SQL-Database-blue?style=flat&logo=postgresql&logoColor=white)](https://www.sql.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com)
 <img align="center" width="30px" style="padding-right:10px;" src="[![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat&logo=python&logoColor=white)](https://www.python.org)"/>
 <img align="center" width="30px" src="[![SQL](https://img.shields.io/badge/SQL-Database-blue?style=flat&logo=postgresql&logoColor=white)](https://www.sql.org)"/>
 <img align="center" width="30px" src="[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com)"/>
