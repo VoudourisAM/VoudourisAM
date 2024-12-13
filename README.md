@@ -1,4 +1,3 @@
-# ![Name Animation](./Animation/Ani_Name.svg)
 <p align="center">
     <img src="./Animation/Ani_Name.svg" alt="Animated SVG">
 </p>
