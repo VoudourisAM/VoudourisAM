@@ -1,6 +1,6 @@
-# ![Name Animation](./name-animation.svg)
+# ![Name Animation](./Animation/Ani_Name.svg)
 
-![Screenshot 2024-11-12 150141](https://github.com/user-attachments/assets/107bebde-1c5f-4254-ae20-55af94dac84f)
+![Screenshot 2024-12-12 200224](https://github.com/user-attachments/assets/d870f5e2-30ba-4e9a-a1a2-008aa68a2fef)
 
 ## 🛠️ My favorite tools
 > ### 👨‍💻 Programming languages
@@ -19,9 +19,8 @@
 [![XGBoost](https://img.shields.io/badge/XGBoost-Gradient_Boosting-3C7B40?style=flat&logo=xgboost&logoColor=white)](https://xgboost.ai/)
 [![NGBoost](https://img.shields.io/badge/NGBoost-Bayesian_Gradient_Boosting-FF9933?style=flat&logo=ngboost&logoColor=white)](https://stanfordmlgroup.github.io/NGBoost/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Plotting-3D76D5?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Flask](https://img.shields.io/badge/Flask-Web_Framework-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-Plotting-3D76D5?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 > ## 💻 Technologies
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-FFA500?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org)
@@ -31,3 +30,6 @@
 <a href="https://www.linkedin.com/in/michael-angelo-voudouris-082a20207/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn" width="30" height="30">
 </a>
+
+
+![Generate Snake Animation](https://github.com/<YourUsername>/<YourUsername>/blob/output/github-contribution-grid-snake.svg)
