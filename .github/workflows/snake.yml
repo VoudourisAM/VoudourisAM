@@ -1,0 +1,31 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    # Runs every day at midnight
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Step 2: Generate the snake
+      - name: Generate Snake Game
+        uses: Platane/snk@v2
+        with:
+          # github_user_name: Replace with your GitHub username
+          github_user_name: YOUR_USERNAME
+          gif_out_path: dist/snake.gif
+
+      # Step 3: Upload the GIF
+      - name: Upload Snake Game to GitHub Profile
+        uses: actions/upload-artifact@v3
+        with:
+          name: snake-game
+          path: dist/snake.gif
