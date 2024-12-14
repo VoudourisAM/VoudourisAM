@@ -6,7 +6,7 @@
 <img src="Img/about_me.jpeg" alt="About Me" style="width:100%;">
 
 ## 🛠️ My favorite tools
->     ### 👨‍💻 Programming languages
+> ### 👨‍💻 Programming languages
 <p align="center">
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-3.9-blue?style=flat&logo=python&logoColor=white" alt="Python">
