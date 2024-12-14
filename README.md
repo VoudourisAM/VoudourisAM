@@ -47,11 +47,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.python.org">
-      ![snake gif](https://github.com/VoudourisAM/VoudourisAM/blob/output/github-snake-dark.svg)
-  </a>
-</p>
-    ![snake gif](https://github.com/VoudourisAM/VoudourisAM/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/VoudourisAM/VoudourisAM/blob/output/github-snake-dark.svg)
 
 
