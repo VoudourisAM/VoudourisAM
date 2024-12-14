@@ -30,7 +30,7 @@
     <!-- Shadow filter -->
     <defs>
         <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-            <feDropShadow dx="7" dy="7" stdDeviation="3" flood-color="white" flood-opacity="0.75" />
+            <feDropShadow dx="7" dy="7" stdDeviation="3" flood-color="gold" flood-opacity="0.75" />
         </filter>
     </defs>
 
