@@ -1,7 +1,8 @@
 <p align="center">
     <img src="Animation/Ani_Name.svg" alt="Animated SVG">
 </p>
-<img src="Img/img_bround.jpg" alt="Background Image" style="width:100%;">
+
+<!-- <img src="Img/img_bround.jpg" alt="Background Image" style="width:50%;"> -->
 
 <img src="Img/about_me.jpeg" alt="About Me" style="width:100%;">
 
