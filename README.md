@@ -1,4 +1,6 @@
-
+<p align="center">
+    <img src="./Animation/Ani_Name.svg" alt="Animated SVG">
+</p>
 
 <img src="Img/about_me.jpeg" alt="About Me" style="width:100%;">
 
