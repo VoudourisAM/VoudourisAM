@@ -18,3 +18,10 @@ jobs:
         with:
           github_user: VoudourisAM
           svg: true
+
+      - name: Commit snake.svg
+        run: |
+          mv snake.svg .github/images/snake.svg
+          git add .github/images/snake.svg
+          git commit -m "Add snake game image"
+          git push
