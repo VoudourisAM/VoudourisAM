@@ -30,7 +30,7 @@
     </defs>
 
     <!-- Background Image -->
-    <image href="Img/img_bround.jpg" x="0" y="0" width="800" height="100" />
+    <image href="./Img/img_bround.jpg" x="0" y="0" width="800" height="100" />
 
     <!-- First Name: Angelos -->
     <text x="50" y="60" class="letter">A</text>
