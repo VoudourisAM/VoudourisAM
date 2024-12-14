@@ -47,8 +47,6 @@
   </a>
 </p>
 
-![snake gif](https://github.com/VoudourisAM/VoudourisAM/blob/output/github-snake-dark.svg)
-
 <p align="center">
   <img src="https://github.com/VoudourisAM/VoudourisAM/blob/output/github-snake-dark.svg" alt="snake gif" />
 </p>
