@@ -8,8 +8,8 @@
 ## 🛠️ My favorite tools
 > ### 👨‍💻 Programming languages
 
-<div align="right">
-  ### 👨‍💻 Programming languages
+<div align="center">
+    👨‍💻 Programming languages
 </div>
 
 <p align="center">
