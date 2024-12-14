@@ -9,7 +9,7 @@
 > ### 👨‍💻 Programming languages
 
 <div align="center">
-    <h3> > 👨‍💻 Programming languages</h1>
+    <h3>👨‍💻 Programming languages</h3>
 </div>
 
 <p align="center">
