@@ -7,6 +7,11 @@
 
 ## 🛠️ My favorite tools
 > ### 👨‍💻 Programming languages
+
+<div align="right">
+  ### 👨‍💻 Programming languages
+</div>
+
 <p align="center">
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-3.9-blue?style=flat&logo=python&logoColor=white" alt="Python">
