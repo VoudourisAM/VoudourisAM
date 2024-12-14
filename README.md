@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./Animation/Ani_n.svg" alt="Animated SVG">
+    <img src="./Animation/Ani_Nane.svg" alt="Animated SVG">
 </p>
 
 <img src="Img/about_me.jpeg" alt="About Me" style="width:100%;">
