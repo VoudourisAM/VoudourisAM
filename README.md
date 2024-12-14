@@ -6,7 +6,7 @@
 <img src="Img/about_me.jpeg" alt="About Me" style="width:100%;">
 
 ## 🛠️ My favorite tools
-> ### 👨‍💻 Programming languages
+>     ### 👨‍💻 Programming languages
 <p align="center">
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-3.9-blue?style=flat&logo=python&logoColor=white" alt="Python">
@@ -19,7 +19,7 @@
   </a>
 </p>
 
-> ## 🧰 Frameworks, libraries
+> ### 🧰 Frameworks, libraries
 [![Pandas](https://img.shields.io/badge/Pandas-DataFrame-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-1.24.0-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-Statistical_Visualization-01A9C7?style=flat&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
@@ -33,7 +33,7 @@
 [![Flask](https://img.shields.io/badge/Flask-Web_Framework-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-> ## 💻 Technologies
+> ### 💻 Technologies
 <p align="center">
   <a href="https://jupyter.org">
     <img src="https://img.shields.io/badge/Jupyter-Notebook-FFA500?style=flat&logo=jupyter&logoColor=white" alt="Jupyter">
