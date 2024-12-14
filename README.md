@@ -48,6 +48,10 @@
 </p>
 
 <p align="center">
-    ![snake gif](https://github.com/VoudourisAM/VoudourisAM/blob/output/github-snake-dark.svg)
+  <a href="https://www.python.org">
+      ![snake gif](https://github.com/VoudourisAM/VoudourisAM/blob/output/github-snake-dark.svg)
+  </a>
 </p>
+    ![snake gif](https://github.com/VoudourisAM/VoudourisAM/blob/output/github-snake-dark.svg)
+
 
