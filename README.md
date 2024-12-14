@@ -47,4 +47,5 @@
   </a>
 </p>
 
-![snake](https://raw.githubusercontent.com/VoudourisAM/VoudourisAM/main/.github/workflows/snake.svg)
+![snake gif](https://github.com/VoudourisAM/VoudourisAM/blob/output/github-snake-dark.svg)
+
