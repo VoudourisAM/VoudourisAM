@@ -9,14 +9,13 @@
             filter: url(#shadow);
         }
         /* Pair letters to appear together */
-        .letter:nth-child(1), .letter:nth-child(8) { animation-delay: 0s; } /* A and M */
-        .letter:nth-child(2), .letter:nth-child(9) { animation-delay: 0.5s; } /* n and i */
-        .letter:nth-child(3), .letter:nth-child(10) { animation-delay: 1s; } /* g and c */
-        .letter:nth-child(4), .letter:nth-child(11) { animation-delay: 1.5s; } /* e and h */
-        .letter:nth-child(5), .letter:nth-child(12) { animation-delay: 2s; } /* l and a */
-        .letter:nth-child(6), .letter:nth-child(13) { animation-delay: 2.5s; } /* o and i */
-        .letter:nth-child(7) { animation-delay: 3s; } /* s */
-        .letter:nth-child(14) { animation-delay: 3s; } /* l */
+        .letter:nth-of-type(1), .letter:nth-of-type(8) { animation-delay: 0s; } /* A and M */
+        .letter:nth-of-type(2), .letter:nth-of-type(9) { animation-delay: 0.5s; } /* n and i */
+        .letter:nth-of-type(3), .letter:nth-of-type(10) { animation-delay: 1s; } /* g and c */
+        .letter:nth-of-type(4), .letter:nth-of-type(11) { animation-delay: 1.5s; } /* e and h */
+        .letter:nth-of-type(5), .letter:nth-of-type(12) { animation-delay: 2s; } /* l and a */
+        .letter:nth-of-type(6), .letter:nth-of-type(13) { animation-delay: 2.5s; } /* o and i */
+        .letter:nth-of-type(7), .letter:nth-of-type(14) { animation-delay: 3s; } /* s and l */
 
         @keyframes fadeIn {
             0% { opacity: 0; transform: translateY(-20px); }
