@@ -16,12 +16,12 @@ jobs:
       - name: Play Snake Game
         uses: Platane/snk@master
         with:
-          github_user: VoudourisAM
+          github_user: VoudourisAm  # Your GitHub username is VoudourisAm
           svg: true
 
       - name: Commit snake.svg
         run: |
-          mv snake.svg .github/images/snake.svg
+          mv snake.svg .github/images/snake.svg  # Move to a public folder
           git add .github/images/snake.svg
           git commit -m "Add snake game image"
           git push
