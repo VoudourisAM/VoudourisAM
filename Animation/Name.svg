@@ -5,18 +5,18 @@
             font-family: Arial, sans-serif;
             fill: gold;
             opacity: 0;
-            animation: fadeInOut 9s linear infinite;
+            animation: fadeInOut 8.5s linear infinite;
             filter: url(#shadow);
         }
 
         /* Define animation delays to display each step sequentially */
-        .letter:nth-of-type(1), .letter:nth-of-type(8) { animation-delay: 0.5s; }   /* A and M */
-        .letter:nth-of-type(2), .letter:nth-of-type(9) { animation-delay: 1.5s; }   /* An and Mi */
-        .letter:nth-of-type(3), .letter:nth-of-type(10) { animation-delay: 2.5s; }  /* Ang and Mic */
-        .letter:nth-of-type(4), .letter:nth-of-type(11) { animation-delay: 3.5s; }  /* Ange and Mich */
-        .letter:nth-of-type(5), .letter:nth-of-type(12) { animation-delay: 4.5s; }  /* Angel and Micha */
-        .letter:nth-of-type(6), .letter:nth-of-type(13) { animation-delay: 5.5s; }  /* Angelo and Michai */
-        .letter:nth-of-type(7), .letter:nth-of-type(14) { animation-delay: 6.5s; }  /* Angelos and Michail */
+        .letter:nth-of-type(1), .letter:nth-of-type(8) { animation-delay: 0s; }   /* A and M */
+        .letter:nth-of-type(2), .letter:nth-of-type(9) { animation-delay: 1s; }   /* An and Mi */
+        .letter:nth-of-type(3), .letter:nth-of-type(10) { animation-delay: 2s; }  /* Ang and Mic */
+        .letter:nth-of-type(4), .letter:nth-of-type(11) { animation-delay: 3s; }  /* Ange and Mich */
+        .letter:nth-of-type(5), .letter:nth-of-type(12) { animation-delay: 4s; }  /* Angel and Micha */
+        .letter:nth-of-type(6), .letter:nth-of-type(13) { animation-delay: 5s; }  /* Angelo and Michai */
+        .letter:nth-of-type(7), .letter:nth-of-type(14) { animation-delay: 6s; }  /* Angelos and Michail */
 
         /* Keyframe animation for fade-in and fade-out */
         @keyframes fadeInOut {
