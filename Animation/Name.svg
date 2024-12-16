@@ -5,10 +5,11 @@
             font-family: Arial, sans-serif;
             fill: gold;
             opacity: 0;
-            animation: fadeInOut 1s forwards;
+            animation: fadeIn 7s linear infinite;
             filter: url(#shadow);
         }
-        /* Pair letters to appear together */
+
+        /* Specify animation delays to progressively display letters */
         .letter:nth-of-type(1), .letter:nth-of-type(8) { animation-delay: 0s; }   /* A and M */
         .letter:nth-of-type(2), .letter:nth-of-type(9) { animation-delay: 1s; }   /* n and i */
         .letter:nth-of-type(3), .letter:nth-of-type(10) { animation-delay: 2s; }  /* g and c */
@@ -17,19 +18,9 @@
         .letter:nth-of-type(6), .letter:nth-of-type(13) { animation-delay: 5s; }  /* o and i */
         .letter:nth-of-type(7), .letter:nth-of-type(14) { animation-delay: 6s; }  /* s and l */
 
-        @keyframes fadeInOut {
-            0% { opacity: 0; transform: translateY(-20px); }
-            50% { opacity: 1; transform: translateY(0); }
-            100% { opacity: 0; transform: translateY(20px); }
-        }
-
-        /* Ensures the entire animation restarts */
-        svg {
-            animation: reset 7s infinite;
-        }
-
-        @keyframes reset {
-            0%, 100% { }
+        @keyframes fadeIn {
+            0%, 12.5% { opacity: 0; } /* Hidden initially */
+            25%, 100% { opacity: 1; } /* Visible after delay */
         }
     </style>
     <!-- Shadow filter -->
