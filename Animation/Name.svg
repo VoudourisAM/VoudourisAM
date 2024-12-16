@@ -22,7 +22,7 @@
         @keyframes fadeInOut {
             0%, 6.25% { opacity: 0; } /* Hidden initially */
             12.5%, 25% { opacity: 1; } /* Visible during its active phase */
-            31.25%, 100% { opacity: 0; } /* Fade out to reset */
+            /* 31.25%, 100% { opacity: 0; }  Fade out to reset */
         }
     </style>
     <!-- Shadow filter -->
