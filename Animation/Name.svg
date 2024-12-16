@@ -5,22 +5,32 @@
             font-family: Arial, sans-serif;
             fill: gold;
             opacity: 0;
-            animation: fadeIn 7s linear infinite;
+            animation: fadeInOut 14s linear infinite;
             filter: url(#shadow);
         }
 
-        /* Specify animation delays to progressively display letters */
+        /* Define animation delays to display each step sequentially */
         .letter:nth-of-type(1), .letter:nth-of-type(8) { animation-delay: 0s; }   /* A and M */
-        .letter:nth-of-type(2), .letter:nth-of-type(9) { animation-delay: 1s; }   /* n and i */
-        .letter:nth-of-type(3), .letter:nth-of-type(10) { animation-delay: 2s; }  /* g and c */
-        .letter:nth-of-type(4), .letter:nth-of-type(11) { animation-delay: 3s; }  /* e and h */
-        .letter:nth-of-type(5), .letter:nth-of-type(12) { animation-delay: 4s; }  /* l and a */
-        .letter:nth-of-type(6), .letter:nth-of-type(13) { animation-delay: 5s; }  /* o and i */
-        .letter:nth-of-type(7), .letter:nth-of-type(14) { animation-delay: 6s; }  /* s and l */
+        .letter:nth-of-type(2), .letter:nth-of-type(9) { animation-delay: 1s; }   /* An and Mi */
+        .letter:nth-of-type(3), .letter:nth-of-type(10) { animation-delay: 2s; }  /* Ang and Mic */
+        .letter:nth-of-type(4), .letter:nth-of-type(11) { animation-delay: 3s; }  /* Ange and Mich */
+        .letter:nth-of-type(5), .letter:nth-of-type(12) { animation-delay: 4s; }  /* Angel and Micha */
+        .letter:nth-of-type(6), .letter:nth-of-type(13) { animation-delay: 5s; }  /* Angelo and Michai */
+        .letter:nth-of-type(7), .letter:nth-of-type(14) { animation-delay: 6s; }  /* Angelos and Michail */
 
-        @keyframes fadeIn {
+        /* Restart the sequence with pairs */
+        .letter:nth-of-type(1), .letter:nth-of-type(8) { animation-delay: 7s; }   /* Restart A and M */
+        .letter:nth-of-type(2), .letter:nth-of-type(9) { animation-delay: 8s; }   /* Restart An and Mi */
+        .letter:nth-of-type(3), .letter:nth-of-type(10) { animation-delay: 9s; }  /* Restart Ang and Mic */
+        .letter:nth-of-type(4), .letter:nth-of-type(11) { animation-delay: 10s; } /* Restart Ange and Mich */
+        .letter:nth-of-type(5), .letter:nth-of-type(12) { animation-delay: 11s; } /* Restart Angel and Micha */
+        .letter:nth-of-type(6), .letter:nth-of-type(13) { animation-delay: 12s; } /* Restart Angelo and Michai */
+        .letter:nth-of-type(7), .letter:nth-of-type(14) { animation-delay: 13s; } /* Restart Angelos and Michail */
+
+        @keyframes fadeInOut {
             0%, 12.5% { opacity: 0; } /* Hidden initially */
-            25%, 100% { opacity: 1; } /* Visible after delay */
+            25%, 50% { opacity: 1; }  /* Visible during its active phase */
+            62.5%, 100% { opacity: 0; } /* Fade out to reset */
         }
     </style>
     <!-- Shadow filter -->
