@@ -5,7 +5,7 @@
             font-family: Arial, sans-serif;
             fill: gold;
             opacity: 0;
-            animation: fadeInOut 14s linear infinite;
+            animation: fadeInOut 16s linear infinite;
             filter: url(#shadow);
         }
 
