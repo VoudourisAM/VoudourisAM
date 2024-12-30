@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="Animation/Name.svg" alt="Animated SVG">a
+    <img src="Animation/Naaame.svg" alt="Animated SVG">
 </p>
 
 <!-- <img src="Img/img_bround.jpg" alt="Background Image" style="width:50%;"> -->
