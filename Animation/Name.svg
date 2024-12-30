@@ -5,24 +5,33 @@
             font-family: Arial, sans-serif;
             fill: gold;
             opacity: 0;
-            animation: fadeInOut 16s linear infinite;
+            animation: fadeInOut 9s linear infinite;
             filter: url(#shadow);
         }
 
-        /* Define animation delays for sequential letter display */
+        /* Define animation delays for build-up phase */
         .letter:nth-of-type(1), .letter:nth-of-type(8) { animation-delay: 0s; }    /* A and M */
-        .letter:nth-of-type(2), .letter:nth-of-type(9) { animation-delay: 1s; }    /* n and i */
-        .letter:nth-of-type(3), .letter:nth-of-type(10) { animation-delay: 2s; }   /* g and c */
-        .letter:nth-of-type(4), .letter:nth-of-type(11) { animation-delay: 3s; }   /* e and h */
-        .letter:nth-of-type(5), .letter:nth-of-type(12) { animation-delay: 4s; }   /* l and a */
-        .letter:nth-of-type(6), .letter:nth-of-type(13) { animation-delay: 5s; }   /* o and i */
-        .letter:nth-of-type(7), .letter:nth-of-type(14) { animation-delay: 6s; }   /* s and l */
+        .letter:nth-of-type(2), .letter:nth-of-type(9) { animation-delay: 0.5s; } /* An and Mi */
+        .letter:nth-of-type(3), .letter:nth-of-type(10) { animation-delay: 1s; }  /* Ang and Mic */
+        .letter:nth-of-type(4), .letter:nth-of-type(11) { animation-delay: 1.5s; }/* Ange and Mich */
+        .letter:nth-of-type(5), .letter:nth-of-type(12) { animation-delay: 2s; }  /* Angel and Micha */
+        .letter:nth-of-type(6), .letter:nth-of-type(13) { animation-delay: 2.5s; }/* Angelo and Michai */
+        .letter:nth-of-type(7), .letter:nth-of-type(14) { animation-delay: 3s; }  /* Angelos and Michail */
+
+        /* Define animation delays for clear-out phase */
+        .letter:nth-of-type(1), .letter:nth-of-type(8) { animation-delay: 4s; }    /* Clear ngelos and ichail */
+        .letter:nth-of-type(2), .letter:nth-of-type(9) { animation-delay: 4.5s; } /* Clear gelos and chail */
+        .letter:nth-of-type(3), .letter:nth-of-type(10) { animation-delay: 5s; }  /* Clear elos and hail */
+        .letter:nth-of-type(4), .letter:nth-of-type(11) { animation-delay: 5.5s; }/* Clear los and ail */
+        .letter:nth-of-type(5), .letter:nth-of-type(12) { animation-delay: 6s; }  /* Clear os and il */
+        .letter:nth-of-type(6), .letter:nth-of-type(13) { animation-delay: 6.5s; }/* Clear s and l */
+        .letter:nth-of-type(7), .letter:nth-of-type(14) { animation-delay: 7s; }  /* Clear nothing */
 
         /* Keyframe animation for fade-in, hold, and fade-out */
         @keyframes fadeInOut {
-            0%, 85% { opacity: 0; }    /* Hidden initially */
-            10%, 70% { opacity: 1; }   /* Visible during active phase */
-            75%, 100% { opacity: 0; }  /* Fade out */
+            0%, 10% { opacity: 0; }    /* Hidden initially */
+            15%, 40% { opacity: 1; }   /* Visible during active phase */
+            45%, 100% { opacity: 0; }  /* Fade out */
         }
     </style>
 
