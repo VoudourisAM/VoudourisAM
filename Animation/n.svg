@@ -21,7 +21,7 @@
         /* Keyframe animation for fade-in, hold, and fade-out */
         @keyframes fadeInOut {
             0%, 85% { opacity: 0; }    /* Hidden initially */
-            10%, 90% { opacity: 1; }   /* Visible during active phase */
+            90%, 70% { opacity: 1; }   /* Visible during active phase */
             75%, 100% { opacity: 0; }  /* Fade out */
         }
     </style>
