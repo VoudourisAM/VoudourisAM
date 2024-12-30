@@ -9,21 +9,14 @@
             filter: url(#shadow);
         }
 
-        /* Define animation delays for sequential letter display */
-        .letter:nth-of-type(1) { animation-delay: 0s; }    /* A */
-        .letter:nth-of-type(2) { animation-delay: 0.5s; }  /* n */
-        .letter:nth-of-type(3) { animation-delay: 1s; }    /* g */
-        .letter:nth-of-type(4) { animation-delay: 1.5s; }  /* e */
-        .letter:nth-of-type(5) { animation-delay: 2s; }    /* l */
-        .letter:nth-of-type(6) { animation-delay: 2.5s; }  /* o */
-        .letter:nth-of-type(7) { animation-delay: 3s; }    /* s */
-        .letter:nth-of-type(8) { animation-delay: 3.5s; }  /* M */
-        .letter:nth-of-type(9) { animation-delay: 4s; }    /* i */
-        .letter:nth-of-type(10) { animation-delay: 4.5s; } /* c */
-        .letter:nth-of-type(11) { animation-delay: 5s; }   /* h */
-        .letter:nth-of-type(12) { animation-delay: 5.5s; } /* a */
-        .letter:nth-of-type(13) { animation-delay: 6s; }   /* i */
-        .letter:nth-of-type(14) { animation-delay: 6.5s; } /* l */
+        /* Define animation delays to display each step sequentially */
+        .letter:nth-of-type(1), .letter:nth-of-type(8) { animation-delay: 0s; }   /* A and M */
+        .letter:nth-of-type(2), .letter:nth-of-type(9) { animation-delay: 1s; }   /* An and Mi */
+        .letter:nth-of-type(3), .letter:nth-of-type(10) { animation-delay: 2s; }  /* Ang and Mic */
+        .letter:nth-of-type(4), .letter:nth-of-type(11) { animation-delay: 3s; }  /* Ange and Mich */
+        .letter:nth-of-type(5), .letter:nth-of-type(12) { animation-delay: 4s; }  /* Angel and Micha */
+        .letter:nth-of-type(6), .letter:nth-of-type(13) { animation-delay: 5s; }  /* Angelo and Michai */
+        .letter:nth-of-type(7), .letter:nth-of-type(14) { animation-delay: 6s; }  /* Angelos and Michail */
 
         /* Keyframe animation for fade-in, hold, and fade-out */
         @keyframes fadeInOut {
